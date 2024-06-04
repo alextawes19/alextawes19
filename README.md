@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alextawes19
-- 👀 I’m interested in Software and Game Devlopment
-- 🌱 I’m currently studying computer science as a Junior at the University of Georgia
-- 💞️ I’m looking to collaborate on mini-projects and small games
+- 👋 Hi, I’m Alex Tawes!
+- I am currently studying computer science as a Senior at the University of Georgia, Go Dawgs!
+- I love making things through programming; this ranges from websites to games and anything in between!
+- LinkedIn profile and resume: https://www.linkedin.com/in/alexander-tawes-a3b36b190/
 - 📫 How to reach me: alextawes8@gmail.com
 
 <!---
